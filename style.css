@@ -61,9 +61,11 @@ nav{
     color: hsl(0, 0%, 100%);
     padding: 10px;
     margin: auto;
-    width: 20vh;
+    width: 25vh;
     cursor: pointer;
     border-radius: 8px; 
+    width: 300px;  
+    max-width: 90%;
     
       
    
